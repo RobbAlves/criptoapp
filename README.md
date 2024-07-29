@@ -4,7 +4,7 @@ Projeto CryptoApp
 CryptoApp é um aplicativo em tempo real para buscar cotações de criptomoedas, desenvolvido com TypeScript, Vite e React.
 
 Visão Geral
-CryptoApp permite aos usuários visualizar as cotações atuais de diversas criptomoedas em tempo real. Ele foi construído utilizando tecnologias modernas como TypeScript para tipagem segura, Vite para um desenvolvimento rápido e React para a construção de interfaces de usuário reativas.
+O App permite aos usuários visualizar as cotações atuais de diversas criptomoedas em tempo real. Ele foi construído utilizando tecnologias modernas como TypeScript para tipagem segura, Vite para um desenvolvimento rápido e React para a construção de interfaces de usuário reativas.
 
 Funcionalidades
 
