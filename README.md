@@ -1,30 +1,15 @@
-# React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+CryptoApp
+CryptoApp é um aplicativo em tempo real para buscar cotações de criptomoedas, desenvolvido com TypeScript, Vite e React.
 
-Currently, two official plugins are available:
+Visão Geral
+CryptoApp permite aos usuários visualizar as cotações atuais de diversas criptomoedas em tempo real. Ele foi construído utilizando tecnologias modernas como TypeScript para tipagem segura, Vite para um desenvolvimento rápido e React para a construção de interfaces de usuário reativas.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json', './tsconfig.app.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Funcionalidades
+Busca em tempo real das cotações de criptomoedas
+Atualizações automáticas dos preços
+Interface intuitiva e responsiva
+Tecnologias Utilizadas
+TypeScript
+Vite
+React
